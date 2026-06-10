@@ -1,0 +1,18 @@
+walmart_etl_pipeline/
+│
+├── data/
+│   └── sales.db             
+│
+├── outputs/                 
+│
+├── src/
+│   ├── __init__.py
+│   ├── pipeline_etl.py      
+│   ├── analytics.py         
+│   └── plots.py             
+│
+├── main.py                  
+├── app.py                  
+├── .gitignore               
+├── requirements.txt         
+└── README.md                
